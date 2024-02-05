@@ -1,2 +1,2 @@
 This is FileA
-Make changes to file A
+Make changes to file FileA
